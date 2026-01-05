@@ -1,5 +1,8 @@
 /target/
-/.vscode/
+.classpath
+.project
+.settings/
+.vscode/
 *.log
 hs_err_pid*
 replay_pid*
